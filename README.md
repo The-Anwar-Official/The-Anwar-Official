@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anwar+Ali+%F0%9F%91%8B;BCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+C%2B%2B;Web+Development+%7C+Exploring+AI" alt="Typing Animation" />
+</p>
+
 # Hi there, I'm Anwar Ali! 👋
 
 ### 💻 BCA Student | Aspiring Software Developer | Tech Enthusiast
