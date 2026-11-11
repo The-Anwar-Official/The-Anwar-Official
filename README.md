@@ -78,7 +78,7 @@ A web project focused on scam awareness and online safety.
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/the-kingly-an-2a0908440)
-- 🌐 Portfolio: [Visit My Website](https://the-anwar-official.github.io/POTTERY-CROCKERY-BY-ALI/)
+- 🌐 Portfolio: [Visit My Website](https://personal-portfolio-112.vercel.app)
 - ✍️ Blog: [Anwar Learner](https://anwarlearner.blog)
 - 📧 Email: mr.an.rough@gmail.com
 
@@ -86,4 +86,4 @@ A web project focused on scam awareness and online safety.
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-**Keep Learning. Keep Building. Keep Growing. 🚀**
+**Keep Learning. Keep Practising. Keep Building. Keep Growing. Rational Over Beliefs 🚀**
