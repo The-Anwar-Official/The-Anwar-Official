@@ -1,93 +1,122 @@
+<div align="center">
+
+# Hi, I'm Anwar Ali 👋
+
+### Aspiring Software Developer | Full-Stack Enthusiast | Open to Opportunities
+
+**BCA Student** • Passionate about building clean, useful applications  
+**Open to Internships & Full-time roles** (Ireland 🇮🇪 / Remote / Hybrid)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Email](https://img.shields.io/badge/Email-mr.an.rough%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.an.rough@gmail.com)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm a BCA student focused on turning ideas into working software. I enjoy solving real problems through code — whether it's web applications, Android apps, or tools that improve online safety.
+
+- 🔭 Currently building web & Android projects to strengthen my development skills  
+- 🌱 Learning industry-standard practices, clean code, and modern development workflows  
+- 💡 Interested in **Web Development**, **Android App Development**, **Artificial Intelligence**, and **Cyber Security**  
+- 🎯 Looking for opportunities where I can contribute, learn fast, and grow as a software developer  
+- 📍 Open to relocate (especially Ireland) or work remotely  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Web Technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💼 Featured Projects
+
+#### 🏺 Pottery & Crockery by Ali
+A clean and responsive website showcasing pottery and crockery products with a modern product-focused design.
+
+**Tech:** HTML • CSS • Bootstrap • JavaScript  
+
+🔗 [Live Website](YOUR-LIVE-LINK) • [Repository](YOUR-REPO-LINK)
+
+---
+
+#### 🛡️ TRACER — Scam Safety Web
+A web project focused on scam awareness and online safety. Built to help users identify and avoid common online scams.
+
+**Tech:** HTML • CSS • JavaScript  
+
+🔗 [Explore Project](YOUR-PROJECT-LINK)
+
+---
+
+#### 🌐 Anwar Portfolio
+My personal portfolio website to showcase projects, skills, and journey as a developer.
+
+**Tech:** HTML • CSS • JavaScript  
+
+🔗 [View Portfolio](YOUR-PORTFOLIO-LINK) • [Repository](YOUR-REPO-LINK)
+
+---
+
+### 📚 Currently Learning
+
+- Strengthening problem-solving and algorithmic thinking  
+- Building better full-stack web applications  
+- Exploring AI-powered applications  
+- Following industry-standard development practices & clean code principles  
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Replace YOUR-USERNAME with your actual GitHub username -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Anwar+Ali+%F0%9F%91%8B;BCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Java+%7C+Python+%7C+C%2B%2B;Web+Development+%7C+Exploring+AI" alt="Typing Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
 
-# Hi there, I'm Anwar Ali! 👋
-
-### 💻 BCA Student | Aspiring Software Developer | Tech Enthusiast
-
-Welcome to my GitHub profile! I'm a BCA student passionate about software development, problem-solving, and building innovative projects. I enjoy learning new technologies and turning ideas into practical applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🤝 Connect With Me
 
-- 🎓 Pursuing Bachelor of Computer Applications (BCA).
-- 💡 Interested in Software Development, Android Applications, Web Development, and Artificial Intelligence.
-- 🚀 Building projects to improve my programming and development skills.
-- 📚 Always learning new technologies and exploring creative solutions.
-- 🎯 Working towards becoming a skilled software developer.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- Java
-- Python
-- C
-- C++
-- JavaScript
-- PHP
-
-**Web Technologies**
-- HTML
-- CSS
-- Bootstrap
-
-**Databases & Tools**
-- MySQL
-- Firebase
-- Git & GitHub
-
-**Areas of Interest**
-- Android App Development
-- Web Development
-- Artificial Intelligence
-- Software Engineering
-- Cyber Security
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 🌐 **Portfolio:** [Visit My Website](YOUR-PORTFOLIO-LINK)
+- ✍️ **Blog:** [Anwar Learner](YOUR-BLOG-LINK)
+- 📧 **Email:** [mr.an.rough@gmail.com](mailto:mr.an.rough@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🌐 Anwar Portfolio
-My personal portfolio website showcasing my work, skills, and projects.
+**Thanks for visiting!**  
+Feel free to explore my repositories and reach out — I'm always open to learning, collaborating, and new opportunities.
 
-🔗 [View Portfolio Repository](https://github.com/The-Anwar-Official/anwar-portfolio)
+*Keep Learning. Keep Practising. Keep Building. Keep Growing.*  
+**Rational Over Beliefs** 🚀
 
-### 🏺 Pottery & Crockery by Ali
-A website project showcasing pottery and crockery products.
-
-🔗 [View Live Website](https://the-anwar-official.github.io/POTTERY-CROCKERY-BY-ALI/)
-
-🔗 [View Repository](https://github.com/The-Anwar-Official/POTTERY-CROCKERY-BY-ALI)
-
-### 🛡️ TRACER — Scam Safety Web
-A web project focused on scam awareness and online safety.
-
-🔗 [Explore Project](https://github.com/The-Anwar-Official/TRACER-Scam-Safety-Web)
-
----
-
-## 🌱 Currently Learning
-
-- Improving my problem-solving skills.
-- Building better web and software applications.
-- Exploring AI-powered applications.
-- Learning industry-standard development practices.
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/the-kingly-an-2a0908440)
-- 🌐 Portfolio: [Visit My Website](https://personal-portfolio-112.vercel.app)
-- ✍️ Blog: [Anwar Learner](https://anwarlearner.blog)
-- 📧 Email: mr.an.rough@gmail.com
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-**Keep Learning. Keep Practising. Keep Building. Keep Growing. Rational Over Beliefs 🚀**
+</div>
