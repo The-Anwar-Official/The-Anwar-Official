@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm a BCA student passionate about software develo
 - Web Development
 - Artificial Intelligence
 - Software Engineering
+- Cyber Security
 
 ---
 
