@@ -124,7 +124,7 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Anwar-Official&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=The-Anwar-Official&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
