@@ -5,10 +5,10 @@
 ### Aspiring Software Developer | Full-Stack Enthusiast | Open to Opportunities
 
 **BCA Student** • Passionate about building clean, useful applications  
-**Open to Internships & Full-time roles** (Ireland 🇮🇪 / Remote / Hybrid)
+**Open to Internships & Full-time roles** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://personal-portfolio-112.vercel.app)
 [![Email](https://img.shields.io/badge/Email-mr.an.rough%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.an.rough@gmail.com)
 
 </div>
@@ -57,7 +57,7 @@ A clean and responsive website showcasing pottery and crockery products with a m
 
 **Tech:** HTML • CSS • Bootstrap • JavaScript  
 
-🔗 [Live Website](YOUR-LIVE-LINK) • [Repository](YOUR-REPO-LINK)
+🔗 [Live Website](YOUR-LIVE-LINK) • [Repository](https://github.com/The-Anwar-Official/POTTERY-CROCKERY-BY-ALI)
 
 ---
 
@@ -66,7 +66,7 @@ A web project focused on scam awareness and online safety. Built to help users i
 
 **Tech:** HTML • CSS • JavaScript  
 
-🔗 [Explore Project](YOUR-PROJECT-LINK)
+🔗 [Explore Project](https://github.com/The-Anwar-Official/TRACER-Scam-Safety-Web)
 
 ---
 
@@ -75,7 +75,7 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 
 **Tech:** HTML • CSS • JavaScript  
 
-🔗 [View Portfolio](YOUR-PORTFOLIO-LINK) • [Repository](YOUR-REPO-LINK)
+🔗 [View Portfolio](https://personal-portfolio-112.vercel.app/) • [Repository](https://github.com/The-Anwar-Official/Personal-Portfolio-112)
 
 ---
 
@@ -92,12 +92,12 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 
 <!-- Replace YOUR-USERNAME with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Anwar-Official&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Anwar-Official&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anwar-Official&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -105,8 +105,8 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 ### 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🌐 **Portfolio:** [Visit My Website](YOUR-PORTFOLIO-LINK)
-- ✍️ **Blog:** [Anwar Learner](YOUR-BLOG-LINK)
+- 🌐 **Portfolio:** [Visit My Website](https://personal-portfolio-112.vercel.app/)
+- ✍️ **Blog:** [Anwar Learner](AnwarLearner.blog)
 - 📧 **Email:** [mr.an.rough@gmail.com](mailto:mr.an.rough@gmail.com)
 
 ---
