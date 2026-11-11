@@ -45,16 +45,6 @@ Welcome to my GitHub profile! I'm a BCA student passionate about software develo
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Anwar-Official&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anwar-Official&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 🚀 Featured Projects
 
 ### 🌐 Anwar Portfolio
