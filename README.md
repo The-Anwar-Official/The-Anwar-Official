@@ -112,7 +112,7 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-Anwar-Official&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Anwar-Official&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=The-Anwar-Official&theme=radical&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" height="160" />
 </p>
 
 <p align="center">
@@ -124,15 +124,22 @@ My personal portfolio website to showcase projects, skills, and journey as a dev
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Anwar-Official&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=The-Anwar-Official&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophy" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
+<!-- यह तब तक काम नहीं करेगा जब तक Action setup न हो -->
+<!-- Setup करने के बाद यह line काम करेगी -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Anwar-Official/The-Anwar-Official/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Anwar-Official/The-Anwar-Official/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Anwar-Official/The-Anwar-Official/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/The-Anwar-Official/The-Anwar-Official/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -165,9 +172,5 @@ Feel free to explore my repositories and reach out — I'm always open to learni
 
 *Keep Learning. Keep Practising. Keep Building. Keep Growing.*  
 **Rational Over Beliefs** 🚀
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/gradient-wave.svg" width="100%" height="50">
 
 </div>
