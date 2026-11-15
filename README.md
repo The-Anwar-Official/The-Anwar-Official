@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Anwar+Ali+%F0%9F%91%8B;Aspiring+Software+Developer;Full-Stack+Enthusiast;Open+to+Opportunities)](https://git.io/typing-svg)
 
 ### BCA Student • Building real projects • Open to Internships & Full-time roles  
-**Ireland 🇮🇪 / Remote / Hybrid**
 
 <br>
 
