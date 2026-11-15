@@ -60,11 +60,58 @@ I'm a BCA student focused on turning ideas into working software. I enjoy solvin
 
 ### 💼 Featured Projects
 
+## 🚀 My Projects
+
 <table>
 <tr>
 <td width="50%">
 
-#### 🏺 Pottery & Crockery by Ali
+### 🌐 Anwar Portfolio
+
+My personal portfolio website to showcase my projects, skills, and journey as a developer.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 [View Portfolio](https://personal-portfolio-112.vercel.app/) • [Repository](https://github.com/The-Anwar-Official/Personal-Portfolio-112)
+
+</td>
+<td width="50%">
+
+### 🎂 BirthVerse
+
+Explore BirthVerse, a live website project.
+
+🔗 [Live Website](https://birthverse112.netlify.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👕 AurrFits
+
+Explore AurrFits, a live website project.
+
+🔗 [Live Website](https://aurrfits.netlify.app/)
+
+</td>
+<td width="50%">
+
+### 🎬 Animora
+
+Explore Animora, a live website project.
+
+🔗 [Live Website](https://animora-azt.pages.dev/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏺 Pottery & Crockery by Ali
+
 A clean and responsive website showcasing pottery and crockery products with a modern product-focused design.
 
 **Tech:** `HTML` `CSS` `Bootstrap` `JavaScript`
@@ -74,24 +121,13 @@ A clean and responsive website showcasing pottery and crockery products with a m
 </td>
 <td width="50%">
 
-#### 🛡️ TRACER — Scam Safety Web
-A web project focused on scam awareness and online safety. Built to help users identify and avoid common online scams.
+### 🛡️ TRACER — Scam Safety Web
+
+A web project focused on scam awareness and online safety, helping users identify and avoid common online scams.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
 🔗 [Explore Project](https://github.com/The-Anwar-Official/TRACER-Scam-Safety-Web)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-#### 🌐 Anwar Portfolio
-My personal portfolio website to showcase projects, skills, and journey as a developer.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-🔗 [View Portfolio](https://personal-portfolio-112.vercel.app/) • [Repository](https://github.com/The-Anwar-Official/Personal-Portfolio-112)
 
 </td>
 </tr>
